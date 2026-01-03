@@ -190,11 +190,10 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 ## 📚 Project Snapshots:
 
-![Settings](frontend/public/settings.png)
+![login-page](/frontend/public/login-page.png)
+
+![profile-page](/frontend/public/profile-page.png)
 
 ![chat](frontend/public/chat.png)
 
-![logout](/frontend/public/logout.png)
-
-![Login](/frontend/public/login.png)
-
+![settings](frontend/public/settings.png)
